@@ -3,7 +3,7 @@ import React from 'react'
 function Dashboard() {
     return (
         <div>
-            <h1>wc to dashboard</h1>
+            <h1>Thanks for visiting</h1>
         </div>
     )
 }
